@@ -4,22 +4,8 @@
         <description><![CDATA[willhays]]></description>
         <link>https://thegrid.ai/willhays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 17:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 17:22:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/willhays/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://a2.files.airows.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTM1NjI3MzU4MDA5ODgwNTQ2.jpg">]]></description>
-            <link>https://thegrid.ai/willhays/5a21f94a-5dc2-4bb3-8db7-e878281bf755/index.html</link>
-            <guid isPermaLink="false">5a21f94a-5dc2-4bb3-8db7-e878281bf755</guid>
-            <pubDate>Thu, 07 Jan 2016 17:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://a1.files.airows.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTM1NjI3MzU4Mjc4MzcxMzM4.jpg">]]></description>
-            <link>https://thegrid.ai/willhays/b5daf28f-fcce-4c2c-a924-b0e1e94f0445/index.html</link>
-            <guid isPermaLink="false">b5daf28f-fcce-4c2c-a924-b0e1e94f0445</guid>
-            <pubDate>Thu, 07 Jan 2016 17:21:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://a3.files.airows.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTM1NjI3MzU4Mjc4MzU5NTE4.jpg">]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/willhays/e9fce2a5-7809-4ccb-8e89-fccc050bab68/index.html</link>
             <guid isPermaLink="false">e9fce2a5-7809-4ccb-8e89-fccc050bab68</guid>
             <pubDate>Thu, 07 Jan 2016 17:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9823fe03-aff2-4f91-9675-d1c2a4b4f981.jpg">]]></description>
+            <link>https://thegrid.ai/willhays/f3c17963-333b-4568-9c70-ac8e26fda8c2/index.html</link>
+            <guid isPermaLink="false">f3c17963-333b-4568-9c70-ac8e26fda8c2</guid>
+            <pubDate>Sun, 22 Nov 2015 00:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool Sunglasses, not so cool AI design]]></title>
+            <description><![CDATA[<article><h1>Cool Sunglasses, not so cool AI design</h1><p>So far very underwhelmed with the robot design. I guess this is both good and bad. I was hoping to use this which would elevate some design time on my end- however not sure it's going to be up to par enough to suit my needs. One thing is for sure. At least my poor writing skills match the poor design skills of the robot.. so that's working out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/958eee4adad7cf271349fcab47d06c08e77478d5.jpg"></article>]]></description>
+            <link>http://airows.com/gear/get-it-james-bonds-custom-tom-ford-sunglasses-from-spectre</link>
+            <guid isPermaLink="false">116e5e48-24ef-4cc3-9f46-3ec2f8321aa4</guid>
+            <pubDate>Mon, 23 Nov 2015 00:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
