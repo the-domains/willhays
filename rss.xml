@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/willhays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://a1.files.airows.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTM1NjI3MzU4Mjc4MzcxMzM4.jpg">]]></description>
+            <link>https://thegrid.ai/willhays/b5daf28f-fcce-4c2c-a924-b0e1e94f0445/index.html</link>
+            <guid isPermaLink="false">b5daf28f-fcce-4c2c-a924-b0e1e94f0445</guid>
+            <pubDate>Thu, 07 Jan 2016 17:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://a3.files.airows.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTM1NjI3MzU4Mjc4MzU5NTE4.jpg">]]></description>
             <link>https://thegrid.ai/willhays/19fe0bc2-5d13-4117-b18e-f6f06b0dc1fc/index.html</link>
             <guid isPermaLink="false">19fe0bc2-5d13-4117-b18e-f6f06b0dc1fc</guid>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/willhays/f3c17963-333b-4568-9c70-ac8e26fda8c2/index.html</link>
             <guid isPermaLink="false">f3c17963-333b-4568-9c70-ac8e26fda8c2</guid>
             <pubDate>Sun, 22 Nov 2015 00:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool Sunglasses, not so cool AI design]]></title>
-            <description><![CDATA[<article><h1>Cool Sunglasses, not so cool AI design</h1><p>So far very underwhelmed with the robot design. I guess this is both good and bad. I was hoping to use this which would elevate some design time on my end- however not sure it's going to be up to par enough to suit my needs. One thing is for sure. At least my poor writing skills match the poor design skills of the robot.. so that's working out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/958eee4adad7cf271349fcab47d06c08e77478d5.jpg"></article>]]></description>
-            <link>http://airows.com/gear/get-it-james-bonds-custom-tom-ford-sunglasses-from-spectre</link>
-            <guid isPermaLink="false">116e5e48-24ef-4cc3-9f46-3ec2f8321aa4</guid>
-            <pubDate>Mon, 23 Nov 2015 00:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
