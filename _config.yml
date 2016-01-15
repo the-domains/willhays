@@ -1,6 +1,6 @@
 name: willhays
 favicon: null
-layout_spectrum: 0.72433
+layout_spectrum: 0.23103
 typography_spectrum: 0.26004
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#232323'
-    - '#919191'
-    - '#434343'
-    - '#f9f9f9'
-    - '#cecece'
+    - '#000000'
+    - '#a0a8b3'
+    - '#f6f5fa'
+    - '#68707b'
+    - '#00a0bf'
   brandStrength: 0.6875
   lightness: 0.6047666382510215
   saturation: 0.5
-  rhythmicContrast: 0.9800057078246027
+  rhythmicContrast: 0.5
 purpose: []
