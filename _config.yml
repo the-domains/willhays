@@ -1,6 +1,6 @@
 name: willhays
 favicon: null
-layout_spectrum: 0.50781
+layout_spectrum: 0
 typography_spectrum: 0.26004
 title: Testing out how well robots can design.
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#a0a8b3'
-    - '#f6f5fa'
-    - '#68707b'
-    - '#00a0bf'
+    - '#dfe0e2'
+    - '#2c2c2a'
+    - '#707070'
+    - '#5a5a5a'
+    - '#979797'
   brandStrength: 0.6875
   lightness: 0.6047666382510215
   saturation: 0.5
